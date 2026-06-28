@@ -1,0 +1,53 @@
+h1 {font-size: 100px;
+    color: blue;
+text-align: center;}
+#color {color: green;
+font-size:xx-large;}
+body{background;}
+#aa {background-color: aqua;
+    font-size: 50px;
+     text-align: center;}
+     #names {font-size: xx-large;
+    text-align: right;
+background-color: blue;
+color: white;
+border-radius: 50px;
+ padding: 10px;
+display: inline-block;}
+body {text-align: right;}
+#houma {background-color: cadetblue;
+    padding: 10px;
+    border-radius: 15px;
+    font-size: xx-large;
+}
+#ii {font-size: xx-large;
+background-color: blue;
+padding: 10px;
+border-radius: 15px;
+display: inline-block;
+color: white;}
+img {
+    width: 400px;
+    height: 500px;
+}
+body {background-image: url(صورة\ الحومة\ من\ القمر\ الصناعي.png);
+    background-size: contain; 
+}
+a {background-color: brown;
+color: aliceblue;
+padding: 10px 20px;
+border-radius: 10px;
+}
+#i {font-size: xx-large;
+color: cornsilk;
+background-color: gold;
+text-align: center;
+text-shadow: 5px;
+}
+p {font-size: x-large;
+color: rgb(230, 226, 11);
+background-color: teal;
+display: inline-block;
+padding: 10px;
+border-radius: 10px;
+}
